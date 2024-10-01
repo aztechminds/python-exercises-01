@@ -1,3 +1,5 @@
+# Übungsaufgabe 2: Mathematische Operationen in Python
+
 # Definiere die Ganzzahlen 
 a = 10
 b = 3
