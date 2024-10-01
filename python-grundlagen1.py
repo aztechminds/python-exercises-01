@@ -1,6 +1,6 @@
 # Übungsaufgabe 1: Python Grundlagen 
 
-# Definiere eine Variable First_name mit meinem Vornamen
+# Variablen definieren 
 first_name = "Abdullah"
 last_name = "Zahed"
 birth_year = "1992"
