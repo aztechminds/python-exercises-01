@@ -3,8 +3,8 @@
 # Variablen definieren 
 first_name = "Abdullah"
 last_name = "Zahed"
-birth_year = "1992"
-has_license = "True"
+birth_year = 1992
+has_license = True
 
 #Ausgabe der Variablen
 print ("Vorname:" , first_name)
